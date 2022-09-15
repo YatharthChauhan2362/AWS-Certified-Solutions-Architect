@@ -4,11 +4,28 @@
 
 # AWS Management Console!
 
+- [AWS Management Console](https://aws.amazon.com/console/)
+
+- [AWS Educate](https://aws.amazon.com/education/awseducate/)
+
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+
+- [AWS Academy](https://aws.amazon.com/training/awsacademy/)
+
+- [AWS Canvas](https://awsacademy.instructure.com/login/canvas)
+
+
+# Associated with AWS
+
+- [AWS ReSkill](https://awsreskill.com/)
+
+
 # AWS Materials!
 
 - [AWS Docs](https://docs.aws.amazon.com/) - Google Drive
 
 - [AWS Materials](https://drive.google.com/drive/folders/1Qn4Jy6foOzA2YM2VVLpgwaeVoe4E5Aan) - Google Drive
+
 
 # AWS Courses!
 
