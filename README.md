@@ -1,7 +1,3 @@
-# Amazon Web Services Certification Path!
-
-![aws certification](https://user-images.githubusercontent.com/75237577/190324245-73340a3d-2a6b-4cff-b364-ee7cc63446c7.png)
-
 # AWS Management Console!
 
 - [AWS Management Console](https://aws.amazon.com/console/)
@@ -34,6 +30,10 @@
 - [AWS Certification Training Playlist](https://www.youtube.com/watch?v=k1RI5locZE4&list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) - Edureka
 
 - [AWS Tutorial for beginners in Hindi | AWS Full Course Hindi](https://www.youtube.com/watch?v=dDN-t69sa3U&list=PLsAO7PraCa7SdNPna4cOeWr3_RIqN7AWj) - Great Learning
+
+# Amazon Web Services Certification Path!
+
+![aws certification](https://user-images.githubusercontent.com/75237577/190324245-73340a3d-2a6b-4cff-b364-ee7cc63446c7.png)
 
 
 
