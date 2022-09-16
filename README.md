@@ -25,6 +25,18 @@
 
 # AWS Courses!
 
+- [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) - Coursera
+
+- [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials) - Coursera
+
+- [DevOps on AWS](https://www.coursera.org/specializations/aws-devops) - Coursera
+
+- [Exam Prep: AWS Certified Solutions Architect - Associate](https://www.coursera.org/learn/aws-certified-solutions-architect-associate) - Coursera
+
+- [Exam Prep: AWS Certified SysOps Administrator – Associate](https://www.coursera.org/learn/exam-prep-aws-sysops-administrator) - Coursera
+
+- [Exam Prep: AWS Certified Cloud Practitioner Foundations](https://www.coursera.org/learn/cloud-practitioner-exam-prep) - Coursera
+
 - [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours](https://www.youtube.com/watch?v=k1RI5locZE4&t=3322s) - Edureka
 
 - [AWS Certification Training Playlist](https://www.youtube.com/watch?v=k1RI5locZE4&list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) - Edureka
