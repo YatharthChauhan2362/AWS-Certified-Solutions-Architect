@@ -1,7 +1,7 @@
 # AWS Info
 
-[![Quality checks status](https://github.com/undergroundwires/AWS-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/AWS-in-bullet-points/actions)
-[![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=AWS-in-bullet-points)
+<!--[![Quality checks status](https://github.com/undergroundwires/AWS-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/AWS-in-bullet-points/actions)
+[![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=AWS-in-bullet-points) -->
 
 - This repo contains study notes for different AWS exams.
 - The notes are comprehensive and written with goal of covering all exam areas.
@@ -51,12 +51,6 @@
 - [AWS Certification Training Playlist](https://www.youtube.com/watch?v=k1RI5locZE4&list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) - Edureka
 
 - [AWS Tutorial for beginners in Hindi | AWS Full Course Hindi](https://www.youtube.com/watch?v=dDN-t69sa3U&list=PLsAO7PraCa7SdNPna4cOeWr3_RIqN7AWj) - Great Learning
-
-# Amazon Web Services Certification Path!
-
-![aws certification](https://user-images.githubusercontent.com/75237577/190324245-73340a3d-2a6b-4cff-b364-ee7cc63446c7.png)
-
-
 
 
 ## Symbols
@@ -132,5 +126,11 @@
   - 👏🏿 [sponsor me](https://github.com/sponsors/undergroundwires)
   - 🎈 [donate using another way](https://undergroundwires.dev/donate) -->
 - ✨ Contributions of any kind are welcome!
+
+# Amazon Web Services Certification Path!
+
+![aws certification](https://user-images.githubusercontent.com/75237577/190324245-73340a3d-2a6b-4cff-b364-ee7cc63446c7.png)
+
+
 
 
