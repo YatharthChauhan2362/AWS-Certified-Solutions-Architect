@@ -20,7 +20,6 @@
 
 - [AWS Canvas](https://awsacademy.instructure.com/login/canvas)
 
-
 # Associated with AWS
 
 - [AWS ReSkill](https://awsreskill.com/)
